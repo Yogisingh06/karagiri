@@ -210,11 +210,11 @@ border-radius: 3px;
     margin-bottom: 7px !important;
   }
   .celebrity-choice .box span{
-    margin-left: 0px !important;
+    margin-left: -23px !important;
     font-size: 13px !important;
   }
   .celebrity-choice .box .star{
-    margin-left: 10px;
+    margin-left: -8px;
   }
   .celebrity-choice .polygon{
     height: 20px;
@@ -888,7 +888,7 @@ font-weight: bolder;
     padding: 56px;
   }
    .last-banner .inbox{
-    margin: 18px -64px !important;
+    margin:12px -49px !important
    }
    .last-banner input[type="email"]{
     width: 318px !important;
@@ -896,9 +896,12 @@ font-weight: bolder;
     
    }
    .join{
-    right: 45px !important;
-    bottom: 89px !important;
+    right: 13px !important;
+    bottom: 102px !important;
    }
+    .foot ul{
+        margin-top: 8px !important;
+    }
    .FEATURED-IN{
     display: none;
    }
